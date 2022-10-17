@@ -29,14 +29,14 @@ Also, I'm always trying to study various fields not stated above for interdiscip
 > **CATs++: Boosting Cost Aggregation with Convolutions and Transformers**<br>
 >> **Seokju Cho**\*, Sunghwan Hong*, and Seungryong Kim<br>
 >> IEEE Trans. on Pattern Analysis and Machine Intelligence (**TPAMI**), <br> To be appeared (Impact Factor: 24.314).<br>
->> <a href="https://arxiv.org/abs/2202.06817">[arXiv]</a>
+>> <a href="https://ku-cvlab.github.io/CATs-PlusPlus-Project-Page/">[Project Page]</a> <a href="https://arxiv.org/abs/2202.06817">[arXiv]</a>
 
 ## International Conference
 
 > **Neural Matching Fields: Implicit Representation of Matching Fields for Visual Correspondence**<br>
 >> Sunghwan Hong, Jisu Nam, **Seokju Cho**, Susung Hong,  Sangryul Jeon, Dongbo Min, and Seungryong Kim<br>
 >> Neural Information Processing Systems (**NeurIPS**), 2022.<br>
->> <a href="https://ku-cvlab.github.io/NeMF/">[Project Page]</a> <a href="#">[arXiv]</a> 
+>> <a href="https://ku-cvlab.github.io/NeMF/">[Project Page]</a> <a href="https://arxiv.org/abs/2210.02689">[arXiv]</a> 
 
 > **MIDMs: Matching Interleaved Diffusion Models for Exemplar-based Image Translation**<br>
 >> Junyoung Seo\*, Gyuseong Lee\*, **Seokju Cho**, Jiyoung Lee, Seungryong Kim<br>
